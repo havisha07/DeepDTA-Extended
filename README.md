@@ -76,9 +76,9 @@ Source data obtained from the original DeepDTA repository: https://github.com/hk
 |---|---|
 | Havisha | Technical Lead — model training, evaluation, report |
 | Charan | Integration — training pipeline, API backend |
-| Abhi | Data & Preprocessing — dataset loading, encoding |
-| Rish | Model Verification — architecture validation |
-| Hari | Evaluation — metrics, statistical analysis |
+| Abhinav | Data & Preprocessing — dataset loading, encoding |
+| Rishitha | Model Verification — architecture validation |
+| Hariharan | Evaluation — metrics, statistical analysis |
 
 ## Repository Structure
 notebooks/ Working Colab notebook for training
