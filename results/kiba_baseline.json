@@ -1,0 +1,12 @@
+{
+  "model": "DeepDTA (CNN + CNN)",
+  "dataset": "kiba",
+  "split": "random 80/20",
+  "test_ci": 0.8762,
+  "test_mse": 0.1765,
+  "epochs": 100,
+  "batch_size": 256,
+  "learning_rate": 0.001,
+  "paper_ci": 0.863,
+  "paper_mse": 0.194
+}
